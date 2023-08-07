@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinayGameChanger
-- 👀 I’m interested in Full Stack Web Developer
+- 👀 Front End Web Developer
 - 🌱 I’m currently learning Full Stack Web Developer
 - 📫 How to reach me ...
 Twitter https://twitter.com/Vinaysharma9650
